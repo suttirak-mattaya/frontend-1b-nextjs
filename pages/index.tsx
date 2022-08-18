@@ -18,7 +18,7 @@ export default function Home() {
           flexDirection='column'
         >
           <Typography variant='h2' fontWeight='bold'>
-            Welcome, visitor
+            Welcome, Visitor
           </Typography>
           <Typography mt={3}>
             เว็บไซต์นี้เป็นส่วนหนึ่งของรายวิชา 240-420 ในงาน Assignment 1b: SSG
