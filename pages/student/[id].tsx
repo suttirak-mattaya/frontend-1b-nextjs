@@ -195,7 +195,7 @@ function StudentInfo() {
               />
             </Box>
             {data.advisor && (
-              <Box width='100%'>
+              <Box width='100%' mt={2}>
                 <Typography variant='h5'>อาจารย์ที่ปรึกษา</Typography>
                 <Account
                   profile_url={
